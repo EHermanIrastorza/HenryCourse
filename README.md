@@ -1,2 +1,2 @@
 # HenryCourse
-Repositorio para el prepcourse de henry.
+Prueba para ver como funcionan los repositorios.
